@@ -1,0 +1,405 @@
+{
+    "tree": [
+        {
+            "path": "../dh-components-source/out/marketing",
+            "name": "marketing",
+            "children": [
+                {
+                    "path": "../dh-components-source/out/marketing/blog_section",
+                    "name": "blog_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/blog_section/blog_1.html",
+                            "name": "blog_1.html",
+                            "size": 3653,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/blog_section/blog_2.html",
+                            "name": "blog_2.html",
+                            "size": 5771,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/blog_section/blog_3.html",
+                            "name": "blog_3.html",
+                            "size": 5072,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/blog_section/blog_4.html",
+                            "name": "blog_4.html",
+                            "size": 3183,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/blog_section/blog_5.html",
+                            "name": "blog_5.html",
+                            "size": 6533,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/blog_section/blog_6.html",
+                            "name": "blog_6.html",
+                            "size": 4983,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 29195,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/cloud_logo_section",
+                    "name": "cloud_logo_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/cloud_logo_section/cloud_logo_1.html",
+                            "name": "cloud_logo_1.html",
+                            "size": 2494,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/cloud_logo_section/cloud_logo_2.html",
+                            "name": "cloud_logo_2.html",
+                            "size": 2343,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/cloud_logo_section/cloud_logo_3.html",
+                            "name": "cloud_logo_3.html",
+                            "size": 2635,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 7472,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/contact_section",
+                    "name": "contact_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/contact_section/contact_1.html",
+                            "name": "contact_1.html",
+                            "size": 5821,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/contact_section/contact_2.html",
+                            "name": "contact_2.html",
+                            "size": 5464,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/contact_section/contact_3.html",
+                            "name": "contact_3.html",
+                            "size": 5940,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 17225,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/cta_section",
+                    "name": "cta_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/cta_section/cta_1.html",
+                            "name": "cta_1.html",
+                            "size": 1480,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/cta_section/cta_2.html",
+                            "name": "cta_2.html",
+                            "size": 1718,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/cta_section/cta_3.html",
+                            "name": "cta_3.html",
+                            "size": 13148,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 16346,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/faq_section",
+                    "name": "faq_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/faq_section/faq_1.html",
+                            "name": "faq_1.html",
+                            "size": 4948,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/faq_section/faq_2.html",
+                            "name": "faq_2.html",
+                            "size": 4251,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/faq_section/faq_3.html",
+                            "name": "faq_3.html",
+                            "size": 4307,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 13506,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/features_section",
+                    "name": "features_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/features_section/features_1.html",
+                            "name": "features_1.html",
+                            "size": 6609,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/features_section/features_2.html",
+                            "name": "features_2.html",
+                            "size": 5531,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/features_section/features_3.html",
+                            "name": "features_3.html",
+                            "size": 5363,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/features_section/features_4.html",
+                            "name": "features_4.html",
+                            "size": 4828,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 22331,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/footer_section",
+                    "name": "footer_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/footer_section/footer_1.html",
+                            "name": "footer_1.html",
+                            "size": 9568,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/footer_section/footer_2.html",
+                            "name": "footer_2.html",
+                            "size": 6384,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/footer_section/footer_3.html",
+                            "name": "footer_3.html",
+                            "size": 1205,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/footer_section/footer_4.html",
+                            "name": "footer_4.html",
+                            "size": 1061,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/footer_section/footer_5.html",
+                            "name": "footer_5.html",
+                            "size": 1191,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 19409,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/hero_section",
+                    "name": "hero_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/hero_section/hero_1.html",
+                            "name": "hero_1.html",
+                            "size": 27592,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/hero_section/hero_2.html",
+                            "name": "hero_2.html",
+                            "size": 50472,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 78064,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/newsletter_section",
+                    "name": "newsletter_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/newsletter_section/newsletter_1.html",
+                            "name": "newsletter_1.html",
+                            "size": 2100,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/newsletter_section/newsletter_2.html",
+                            "name": "newsletter_2.html",
+                            "size": 3611,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/newsletter_section/newsletter_3.html",
+                            "name": "newsletter_3.html",
+                            "size": 1632,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/newsletter_section/newsletter_4.html",
+                            "name": "newsletter_4.html",
+                            "size": 1247,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/newsletter_section/newsletter_5.html",
+                            "name": "newsletter_5.html",
+                            "size": 2357,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 10947,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/pricing_tables",
+                    "name": "pricing_tables",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/pricing_tables/pricing_table_1.html",
+                            "name": "pricing_table_1.html",
+                            "size": 9404,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/pricing_tables/pricing_table_2.html",
+                            "name": "pricing_table_2.html",
+                            "size": 8853,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/pricing_tables/pricing_table_3.html",
+                            "name": "pricing_table_3.html",
+                            "size": 12123,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 30380,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/stats_section",
+                    "name": "stats_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/stats_section/stats_1.html",
+                            "name": "stats_1.html",
+                            "size": 2501,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/stats_section/stats_2.html",
+                            "name": "stats_2.html",
+                            "size": 2169,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ],
+                    "size": 4670,
+                    "type": "directory"
+                },
+                {
+                    "path": "../dh-components-source/out/marketing/team_section",
+                    "name": "team_section",
+                    "children": [
+                        {
+                            "path": "../dh-components-source/out/marketing/team_section/team_1.html",
+                            "name": "team_1.html",
+                            "size": 24324,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/team_section/team_2.html",
+                            "name": "team_2.html",
+                            "size": 3658,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/team_section/team_3.html",
+                            "name": "team_3.html",
+                            "size": 3636,
+                            "extension": ".html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "../dh-components-source/out/marketing/team_section/team_4.html",
+                            "name": "team_4.html",
+                            "size": 6412,
+                            "extension": ".html",
+                            "type": "file"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
